@@ -1,8 +1,8 @@
 # Demolition Derby
 
-Car-smashing party game for Windows: classic derby, monster truck, and punch buggy with boxing gloves. Solo against AI, or online with up to 6 players.
+Car-smashing party game for Windows: classic derby, monster truck, and punch buggy with boxing gloves. Solo against AI, or online with up to 10 players.
 
-**Download:** [DemolitionDerby-Windows.zip](https://github.com/tommyoldham/demolition-derby/releases/latest/download/DemolitionDerby-Windows.zip)
+**Download:** [DemolitionDerby-Windows.zip](https://github.com/tommyoldham/demolition-derby/releases/download/v0.2.0/DemolitionDerby-Windows.zip)
 
 Unzip the whole folder and run `DemolitionDerby.exe`. Windows may warn about an unknown publisher: choose More info, then Run anyway.
 
